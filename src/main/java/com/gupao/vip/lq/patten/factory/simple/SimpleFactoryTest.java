@@ -1,6 +1,4 @@
-package com.gupao.vip.lq.factory.simple;
-
-import com.gupao.vip.lq.factory.simple.SimpleFactory;
+package com.gupao.vip.lq.patten.factory.simple;
 
 /**
  * 工厂测试类

@@ -1,7 +1,7 @@
-package com.gupao.vip.lq.factory.general;
+package com.gupao.vip.lq.patten.factory.general;
 
-import com.gupao.vip.lq.factory.Computer;
-import com.gupao.vip.lq.factory.Huipu;
+import com.gupao.vip.lq.patten.factory.Computer;
+import com.gupao.vip.lq.patten.factory.Huipu;
 
 /**
  * 惠普电脑生产工厂

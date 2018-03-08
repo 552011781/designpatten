@@ -1,9 +1,8 @@
-package com.gupao.vip.lq.factory.abstr;
+package com.gupao.vip.lq.patten.factory.abstr;
 
-import com.gupao.vip.lq.factory.Computer;
-import com.gupao.vip.lq.factory.Huipu;
-import com.gupao.vip.lq.factory.general.DaierFactory;
-import com.gupao.vip.lq.factory.general.HuipuFactory;
+import com.gupao.vip.lq.patten.factory.Computer;
+import com.gupao.vip.lq.patten.factory.general.DaierFactory;
+import com.gupao.vip.lq.patten.factory.general.HuipuFactory;
 
 /**
  * 电脑工厂

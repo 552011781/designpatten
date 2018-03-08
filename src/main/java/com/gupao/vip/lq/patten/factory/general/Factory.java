@@ -1,6 +1,6 @@
-package com.gupao.vip.lq.factory.general;
+package com.gupao.vip.lq.patten.factory.general;
 
-import com.gupao.vip.lq.factory.Computer;
+import com.gupao.vip.lq.patten.factory.Computer;
 
 /**
  * 电脑生产工厂接口

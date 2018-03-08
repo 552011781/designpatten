@@ -1,4 +1,4 @@
-package com.gupao.vip.lq.factory;
+package com.gupao.vip.lq.patten.factory;
 
 /**
  * TODO

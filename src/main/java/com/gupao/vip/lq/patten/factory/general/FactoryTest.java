@@ -1,4 +1,4 @@
-package com.gupao.vip.lq.factory.general;
+package com.gupao.vip.lq.patten.factory.general;
 
 /**
  * 电脑工厂测试类

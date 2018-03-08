@@ -1,6 +1,4 @@
-package com.gupao.vip.lq.factory.abstr;
-
-import com.gupao.vip.lq.factory.Computer;
+package com.gupao.vip.lq.patten.factory.abstr;
 
 /**
  * TODO

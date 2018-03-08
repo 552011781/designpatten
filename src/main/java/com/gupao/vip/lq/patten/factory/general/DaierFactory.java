@@ -1,7 +1,7 @@
-package com.gupao.vip.lq.factory.general;
+package com.gupao.vip.lq.patten.factory.general;
 
-import com.gupao.vip.lq.factory.Computer;
-import com.gupao.vip.lq.factory.Daier;
+import com.gupao.vip.lq.patten.factory.Computer;
+import com.gupao.vip.lq.patten.factory.Daier;
 
 /**
  * 戴尔生产工厂
